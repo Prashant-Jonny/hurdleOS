@@ -12,11 +12,13 @@ namespace jOS
 			String JOSDIR = "/Users/jacobgarby/jOS/";
 
 			Console.WriteLine ("Hello! Welcome to");
-			Console.WriteLine ("     _ _____ _____ ");
-			Console.WriteLine ("    |_|     |   __|");
-			Console.WriteLine ("    | |  |  |__   |");
-			Console.WriteLine ("   _| |_____|_____| jOS v0.003");
-			Console.WriteLine ("  |___|            ");
+			Console.WriteLine (" _                   _ _       ____   _____ ")
+			Console.WriteLine ("| |                 | | |     / __ \ / ____|")
+			Console.WriteLine ("| |__  _   _ _ __ __| | | ___| |  | | (___  ")
+			Console.WriteLine ("| '_ \| | | | '__/ _` | |/ _ \ |  | |\___ \ ")
+			Console.WriteLine ("| | | | |_| | | | (_| | |  __/ |__| |____) | hurdleOS v0.004")
+			Console.WriteLine ("|_| |_|\__,_|_|  \__,_|_|\___|\____/|_____/ ")
+                                            
 			Console.ResetColor ();
 
 			//Check if atleast 1 user exists
